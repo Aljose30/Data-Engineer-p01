@@ -25,7 +25,7 @@ poetry run ./run.sh
 poetry run python app/main.py
 ```
 
-6. Open [http://localhost:8001/](http://localhost:8001/) in your browser
+6. Abra http://localhost:8000/ en su navegador
 
 
 7. To update the dependencies, run `poetry update`
